@@ -1,5 +1,12 @@
 # Architettura
 
+<!-- (immagine architettura) -->
+
+## :clipboard: Descrizione
+Per sviluppare questa applicazione, la quale descrizione è presente (qui)[DescrizioneProgetto.md], sono presenti piò possibilità. <br>
+Quella pensata dal nostro gruppo adotta due aspetti principali: un database, un programma java che si interfaccia con esso. <br>
+L'utilizzo di un server web è stato escluso, essendo che complicherebbe le cose a entrambe le parti, sia ai programmatori che a chi riceve il progetto.
+
 ## :gear: Features
 Nel progetto sono richieste le seguenti features:
 - Connessione a un database: Dal quale il programma seleziona o inserisce dei particolari dati;
@@ -16,3 +23,9 @@ EX 1:
 Scuole (IDScuola, denominazione) -> Plessi (IDPlesso, denominazione, locazione) -> Professori (IDProfessore, guarda docx) -> Attestato (tipo -base/specifico/agg durata -ore)
 EX 2:
 Scuole(IDScuola, denominazione) -> COMPRENDE -> Plessi (IDScuola, IDPlesso, denominazione, locazione) -> LAVORA IN (n,n oppure 1,n?) -> Professori (IDProfessore, ...) -> POSSIEDE -> Attestato (IDProfessore, tipo -base/specifico/agg durata -ore)
+
+<!-- ## Tabelle, prima di farlo è necessario discutere e prendere visione dell'excel! -->
+
+## :pushpin: Nello specifico
+- Per quanto riguarda il database si prevede l'utilizzo di MySql, software reperibile gratuitamente.
+- Per quanto riguarda la programmazione, invece, il linguaggio di programmazione utilizzato sarà Java.
