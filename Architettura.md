@@ -24,7 +24,7 @@ Scuole (IDScuola, denominazione) -> Plessi (IDPlesso, denominazione, locazione) 
 EX 2:
 Scuole(IDScuola, denominazione) -> COMPRENDE -> Plessi (IDScuola, IDPlesso, denominazione, locazione) -> LAVORA IN (n,n oppure 1,n?) -> Professori (IDProfessore, ...) -> POSSIEDE -> Attestato (IDProfessore, tipo -base/specifico/agg durata -ore)
 
-<!-- ## Tabelle, prima di farlo è necessario discutere e prendere visione dell'excel! -->
+<!-- ## 📖 :book: (Controlla che vada bene come emojy)Tabelle, prima di farlo è necessario discutere e prendere visione dell'excel! -->
 
 ## :pushpin: Nello specifico
 - Per quanto riguarda il database si prevede l'utilizzo di MySql, software reperibile gratuitamente.
