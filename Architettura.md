@@ -1,13 +1,13 @@
 # Architettura
 
-## Features
+## :gear: Features
 Nel progetto sono richieste le seguenti features:
 - Connessione a un database: Dal quale il programma seleziona o inserisce dei particolari dati;
 - Interfaccia grafica: Necessaria per interagire con il programma e contenente tutte le funzioni che esso può compiere;
 - Impostazioni: Il programma deve essere personalizzabile tramite delle impostazioni (salvate in DB / scritte su file) (Aggiungere 1/+ Corsi) (Modificare impostazioni corso);
 - Log: Questa funzionalità e strettamente necessaria per tenere traccia delle attività dell'utente, nonchè dei possibili crash a cui il programma potrebbe andare in contro;
 
-## Entità
+## :busts_in_silhouette: Entità
 - Scuole: Ogni scuola è un'entità essendo che il programma e pensato per soddisfare le esigenze di più scuole; (personalizzabile nelle impostazioni?);
 - Plessi: Ogni scuola è composta da uno (ex. Marconi) o più plessi (ex: IT13);
 - Professori: Persona che lavora in un determinato plesso (molti a molti oppure uno a molti??);
