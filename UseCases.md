@@ -3,7 +3,7 @@
 
 in questo documento seguira la descrizione relativa ai possibili usi da parte di un utente dell'applicazione (Nome).
 L'applicazione si occupa della gestione di tutti gli eventi relativi alla formazione di docenti di varie scuole.
-L'applicazione è di tipo User-friendly, quindi si presenta all'utente con una grafica  (link alla grafica) che permette l'interazione in modo semplice e dinamico, adatta appunto alle esigenze del consumatore.
+L'applicazione è di tipo User-friendly, quindi si presenta all'utente con una grafica   ,   http://github.com - automatic![GitHub](http://github.com)   .(link alla grafica) che permette l'interazione in modo semplice e dinamico, adatta appunto alle esigenze del consumatore.
 
 
 ***UTENTE***
