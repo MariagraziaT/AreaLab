@@ -41,7 +41,7 @@ Verifichiamo che il server sia funzionante facendo click sul pulsante Connetti. 
 
 ### Windows 7
 
-Per iniziare dobbiamo seguire il link https://www.microsoft.com/en-in/download/details.aspx?id=42299. Una volta aperta la pagina bisogna scegliere la lingua preferita e cliccare download
+Per iniziare dobbiamo seguire il link https://www.microsoft.com/en-in/download/details.aspx?id=42299. <br> Una volta aperta la pagina bisogna scegliere la lingua preferita e cliccare download
 
 ![a](/Immagini/Installazione/14img.PNG)
 
