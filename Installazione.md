@@ -5,7 +5,7 @@ In questa guida seguiremo l’installazione SQL per la versione gratuita **SQL S
 
 Per iniziare dobbiamo scaricare il sorgente da questo link https://go.microsoft.com/fwlink/?linkid=853017.
 
-Dopo averne eseguito il download eseguiamo il file SQLServer2017-SSEI-Expr.exe
+Dopo aver eseguito il download eseguiamo il file SQLServer2017-SSEI-Expr.exe
  
  ![](./desktop/img1.jpg)
  
