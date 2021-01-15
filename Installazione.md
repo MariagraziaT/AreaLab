@@ -6,12 +6,11 @@ Per iniziare dobbiamo scaricare il sorgente da questo link https://go.microsoft.
 Altermine del download eseguiamo il file SQLServer2017-SSEI-Expr.exe
  
 ![a](/Immagini/img1.jpg)
- 
- 
-https://www.edtc.it/wp-content/uploads/2019/11/Installazione-SQL-Server-Tipo-Installazione.jpg
-
 
 Accettiamo le condizioni di licenza e confermiamo l’installazione nel percorso predefinito.
+
+![a](/Immagini/img3.jpg)
+ 
  https://www.edtc.it/guide/microsoft-sql-server/installare-sql-server/
 
 
