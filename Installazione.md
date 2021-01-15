@@ -43,7 +43,7 @@ Verifichiamo che il server sia funzionante facendo click sul pulsante Connetti. 
 
 Per iniziare dobbiamo seguire il link https://www.microsoft.com/en-in/download/details.aspx?id=42299. Una volta aperta la pagina bisogna scegliere la lingua preferita e cliccare download
 
-![a](/Immagini/14img1.jpg)
+![a](/Immagini/14img1.PNG)
 
 guida 2017
 https://www.edtc.it/guide/microsoft-sql-server/installare-sql-server/
