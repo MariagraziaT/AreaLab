@@ -3,7 +3,7 @@
 <!-- (immagine architettura) -->
 
 ## :clipboard: Descrizione
-Per sviluppare questa applicazione, la quale descrizione è presente (qui)[DescrizioneProgetto.md], sono presenti piò possibilità. <br>
+Per sviluppare questa applicazione, la quale descrizione è presente [qui](DescrizioneProgetto.md), sono presenti piò possibilità. <br>
 Quella pensata dal nostro gruppo adotta due aspetti principali: un database, un programma java che si interfaccia con esso. <br>
 L'utilizzo di un server web è stato escluso, essendo che complicherebbe le cose a entrambe le parti, sia ai programmatori che a chi riceve il progetto.
 
