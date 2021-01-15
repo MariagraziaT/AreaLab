@@ -3,7 +3,7 @@
 **WINDOWS**
 In questa guida seguiremo l’installazione SQL in versione gratuita(SQL Server 2017 Express) che è possibile scaricare da questro link https://go.microsoft.com/fwlink/?linkid=853017.
 
-
+![](img1.jpg)
 
 
 
