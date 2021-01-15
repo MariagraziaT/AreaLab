@@ -4,7 +4,7 @@ Il progetto è volto a risolvere e semplificare la gestione dei corsi di sicurez
 e antincendio o tutti quei corsi di aggiornamento e formazione del personale lavoratore.<br>
 Il progetto basa le sue funzionalità sull'esistenza di un database posto nella rete locale
 del contesto lavorativo.
-Il database verrà creato dagli sviluppatori.
+Il database verrà creato dagli sviluppatori e potrà anche essere aggiornato da un file CSV.
 <br>
 :point_right:[Architettura](https://github.com/Enrypase/AreaLab/blob/main/Architettura.md)
 <br>
@@ -19,7 +19,9 @@ Il prodotto è garantito dagli sviluppatori nella sua versione portable. L'esecu
 avverrà inserendo una semplice chiavetta USB (o supporto esterno) all'interno di un computer connesso
 in rete.<br>
 Al momento dell'esecuzione dell'applicazione verrà creato in automatico nel supporto esterno un backup 
-totale del database, che verrà, quindi, sovrascritto ad ogni esecuzione.<br>
+totale del database, che verrà, quindi, sovrascritto ad ogni esecuzione all'interno della chiavetta
+USB e, simultaneamente, verrà creato o sovrascritto un file CSV con tutti i dati aggiornati direttamente
+da database e che potrà essere utilizzato per inserire temporaneamente i dati.<br>
 
 ## LOGIN<br>
 Il login, neccesario, consente l'accesso all'interno dell'applicazione.<br>
