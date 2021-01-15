@@ -16,7 +16,7 @@ Al momento dell'esecuzione dell'applicazione verrà creato in automatico nel sup
 totale del database, che verrà, quindi, sovrascritto ad ogni esecuzione.<br>
 
 ## LOGIN<br>
-Il login, necesario, consente l'accesso all'interno dell'applicazione.<br>
+Il login, neccesario, consente l'accesso all'interno dell'applicazione.<br>
 [GESTORE](#GESTORE)<br>
 Una volta svolto l'accesso saranno visibili dei messaggi che evidenzieranno le 
 informazioni prioritare come:<br>
