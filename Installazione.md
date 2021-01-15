@@ -6,16 +6,18 @@ Per iniziare dobbiamo scaricare il sorgente da questo link https://go.microsoft.
 Altermine del download eseguiamo il file SQLServer2017-SSEI-Expr.exe
  
 ![a](/Immagini/img1.jpg)
-![a](/Immagini/img2.gif)
+
 Accettiamo le condizioni di licenza e confermiamo l’installazione nel percorso predefinito.
+
+![a](/Immagini/img2.gif)
+
+A questo punto il programma di installazione procederà a scaricare da internet tutti i file necessari e, alla fine del download, inizierà l'installazione vera e propria. <
 
 ![a](/Immagini/img3.jpg)
  ![a](/Immagini/img4.jpg)
 
  https://www.edtc.it/guide/microsoft-sql-server/installare-sql-server/
 
-
-A questo punto il programma di installazione procederà a scaricare da internet tutti i file necessari e, alla fine del download, inizierà l'installazione vera e propria. <br>
 
 La procedura durerà quindi parecchi minuti a seconda della velocità della linea internet e delle prestazioni del computer. <br>
 
