@@ -1,9 +1,9 @@
 ### INSTALLAZIONE GUIDATA SQL SERVER 
-<p>In questa guida seguiremo l’installazione SQL per la versione gratuita __SQL Server 2017 Express__.
+<p>In questa guida seguiremo l’installazione SQL per la versione gratuita **SQL Server 2017 Express**.
 
 Per iniziare dobbiamo scaricare il sorgente da questo link https://go.microsoft.com/fwlink/?linkid=853017.
 
-Dopo aver eseguito il download eseguiamo il file SQLServer2017-SSEI-Expr.exe
+Altermine del download eseguiamo il file SQLServer2017-SSEI-Expr.exe
  
  ![](./desktop/img1.jpg)
  
@@ -17,7 +17,6 @@ Accettiamo le condizioni di licenza e confermiamo l’installazione nel percorso
 A questo punto il programma di installazione procederà a scaricare da internet tutti i file necessari e, alla fine del download, inizierà l'installazione vera e propria. <br>
 
 La procedura durerà quindi parecchi minuti a seconda della velocità della linea internet e delle prestazioni del computer. <br>
-
 
 alla fine dell'installazione verrà mostrata questa finestra <br>
 
