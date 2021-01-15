@@ -5,6 +5,7 @@ e antincendio o tutti quei corsi di aggiornamento e formazione del personale lav
 Il progetto basa le sue funzionalità sull'esistenza di un database posto nella rete locale
 del contesto lavorativo.
 Il database verrà creato dagli sviluppatori.
+<br>
 :point_right:[Architettura](https://github.com/Enrypase/AreaLab/blob/main/Architettura.md)
 <br>
 <br>
