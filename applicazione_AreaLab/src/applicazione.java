@@ -14,6 +14,7 @@ public class applicazione extends javax.swing.JPanel {
      * Creates new form applicazione
      */
     public applicazione() {
+        System.out.println("ciao");
         initComponents();
     }
 
