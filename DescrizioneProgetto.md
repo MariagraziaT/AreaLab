@@ -8,6 +8,7 @@ Il database verrà creato dagli sviluppatori.<br><br>
 :warning: L'installazione di software e componenti aggiuntivi è a carico degli sviluppatori tramite
 intervento diretto sul luogo d'installazione o tramite un file dettagliato per l'installazione 
 corretta, sicura e semplice di tutto il necessario.
+[ciao]("https://github.com/Enrypase/AreaLab/blob/main/Installazione.md")
 <br>
 Il prodotto è garantito dagli sviluppatori nella sua versione portable. L'esecuzione dell'applicazione
 avverrà inserendo una semplice chiavetta USB (o supporto esterno) all'interno di un computer connesso
