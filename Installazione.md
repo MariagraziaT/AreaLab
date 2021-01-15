@@ -31,5 +31,10 @@ alla fine dell'installazione verrà mostrata questa finestra
 Verifichiamo che il server sia funzionante facendo click sul pulsante Connetti. Se l'installazione è andata a buon fine si aprirà questa finestra che mostra la versione di SQL Server installata. <br></p>
 
 https://www.edtc.it/guide/microsoft-sql-server/installare-sql-server/
-windows server 2019 -> windows 10
-windows server 2017 -> windo
+
+
+**Versioni supportate**
+windows server 2019 -> Windows 10 TH1 1507 o versione successiva
+Windows Server 2016 o versione successiva
+windows server 2017 -> Windows 10; Windows 8; Windows 8.1; Windows Server 2012; Windows Server 2012 R2; Windows Server 2016 
+windows server 2014 > Windows 7; Windows 7 Service Pack 1; Windows 8; Windows 8.1; Windows Server 2008 R2; Windows Server 2008 R2 SP1; Windows Server 2012; Windows Server 2012 R2 
