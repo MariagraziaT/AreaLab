@@ -11,17 +11,17 @@ Accettiamo le condizioni di licenza e confermiamo l’installazione nel percorso
 
 ![a](/Immagini/img2.gif)
 
-A questo punto il programma di installazione procederà a scaricare da internet tutti i file necessari e, alla fine del download, inizierà l'installazione vera e propria. <
-
-![a](/Immagini/img3.jpg)
- ![a](/Immagini/img4.jpg)
-
- https://www.edtc.it/guide/microsoft-sql-server/installare-sql-server/
-
-
+A questo punto il programma di installazione procederà a scaricare da internet tutti i file necessari e, alla fine del download, inizierà l'installazione vera e propria. 
 La procedura durerà quindi parecchi minuti a seconda della velocità della linea internet e delle prestazioni del computer. <br>
 
-alla fine dell'installazione verrà mostrata questa finestra <br>
+![a](/Immagini/img3.jpg)
+
+alla fine dell'installazione verrà mostrata questa finestra 
+
+![a](/Immagini/img4.jpg)
+
+
+alla fine dell'installazione verrà mostrata questa finestra 
 
  ![a](/Immagini/img5.jpg)
 Verifichiamo che il server sia funzionante facendo click sul pulsante Connetti. Se l'installazione è andata a buon fine si aprirà questa finestra che mostra la versione di SQL Server installata. <br></p>
