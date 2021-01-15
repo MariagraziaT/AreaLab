@@ -21,7 +21,7 @@ Nel progetto sono richieste le seguenti features:
 - Professori: Persona che lavora in un determinato plesso (molti a molti oppure uno a molti??);
 - Corso: Seguito da un professore (trovare tutte le variabili che potrebbe contenere!);
 
-## 📖 :book: Tabelle
+## :book: Tabelle
 - Scuole: IDScuola, denominazioneScuola
 - Plessi: IDScuola, IDPlesso, denominazionePlesso, indirizzoPlesso
 - Lavori: IDScuola, IDProfessore
