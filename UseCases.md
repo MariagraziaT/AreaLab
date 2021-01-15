@@ -1,9 +1,9 @@
 
 ***Use Case***
 
-in questo documento seguira la descrizione relativa ai possibili usi da parte di un utente dell'applicazione (Nome).
-L'applicazione si occupa della gestione di tutti gli eventi relativi alla formazione di docenti di varie scuole.
-L'applicazione è di tipo User-friendly, quindi si presenta all'utente con una grafica, [Grafica](Grafica.md) che permette l'interazione in modo semplice e dinamico, adatta appunto alle esigenze del consumatore.
+In questo documento seguira la descrizione relativa ai possibili usi da parte di un utente dell'applicazione (Nome).
+L'applicazione si occupa della gestione di tutti gli eventi riguardanti la formazione di docenti di varie scuole.
+L'applicazione è di tipo User-friendly, quindi si presenta all'utente con una [grafica](Grafica.md), che permette l'interazione in modo semplice e dinamico, adatta appunto alle esigenze del consumatore.
 
 
 ***UTENTE***
@@ -25,8 +25,7 @@ il dirigente scolastico potra cosi visionare, e controllare i vari dipendenti e 
 * modifica
 * informazione
 * background
-* importare le informazioni
-personale
+* importare le informazioni personale
 
 garantisce la sorveglianza per quanto riguarda gli insegnanti ed i da essi corsi svolti (formazione base/specifica)
 
