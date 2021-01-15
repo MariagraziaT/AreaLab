@@ -9,6 +9,7 @@ L'utilizzo di un server web è stato escluso, essendo che complicherebbe le cose
 
 ## :gear: Features
 Nel progetto sono richieste le seguenti features:
+- Meccanismo di autenticazione: per eseguire l'accesso al programma;
 - Connessione a un database: Dal quale il programma seleziona o inserisce dei particolari dati;
 - Interfaccia grafica: Necessaria per interagire con il programma e contenente tutte le funzioni che esso può compiere;
 - Impostazioni: Il programma deve essere personalizzabile tramite delle impostazioni (salvate in DB / scritte su file) (Aggiungere 1/+ Corsi) (Modificare impostazioni corso);
