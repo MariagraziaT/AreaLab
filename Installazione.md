@@ -36,9 +36,7 @@ https://www.edtc.it/guide/microsoft-sql-server/installare-sql-server/
 **Versioni supportate**
 
 **windows server 2019** -> Windows 10 TH1 1507 o versione successiva
-
 **Windows Server 2016** o versione successiva
-
 **windows server 2017** -> Windows 10; Windows 8; Windows 8.1; Windows Server 2012; Windows Server 2012 R2; Windows Server 2016 
 
 **windows server 2014** > Windows 7; Windows 7 Service Pack 1; Windows 8; Windows 8.1; Windows Server 2008 R2; Windows Server 2008 R2 SP1; Windows Server 2012; Windows Server 2012 R2 
