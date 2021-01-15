@@ -47,7 +47,7 @@ Per iniziare dobbiamo seguire il link https://www.microsoft.com/en-in/download/d
 
 Si aprirà questa finestra 
 
-![a](/Immagini/Installazione/14img2.PNG)
+![a](/Immagini/Installazione/14img3.PNG)
 
 guida 2017
 https://www.edtc.it/guide/microsoft-sql-server/installare-sql-server/
