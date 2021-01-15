@@ -1,5 +1,5 @@
-### INSTALLAZIONE GUIDATA SQL SERVER 
-<p>In questa guida seguiremo l’installazione SQL per la versione gratuita **SQL Server 2017 Express**.
+# INSTALLAZIONE GUIDATA SQL SERVER 
+In questa guida seguiremo l’installazione SQL per la versione gratuita **SQL Server 2017 Express**.
 
 Per iniziare dobbiamo scaricare il sorgente da questo link https://go.microsoft.com/fwlink/?linkid=853017.
 
@@ -25,3 +25,7 @@ alla fine dell'installazione verrà mostrata questa finestra
 
  ![a](/Immagini/img5.jpg)
 Verifichiamo che il server sia funzionante facendo click sul pulsante Connetti. Se l'installazione è andata a buon fine si aprirà questa finestra che mostra la versione di SQL Server installata. <br></p>
+
+https://www.edtc.it/guide/microsoft-sql-server/installare-sql-server/
+windows server 2019 -> windows 10
+windows server 2017 -> windo
