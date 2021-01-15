@@ -7,7 +7,7 @@ L'applicazione è di tipo User-friendly, quindi si presenta all'utente con una g
 
 
 ***UTENTE***
-:bust_in_silhouette:
+:bust_in_silhouette: :closed_lock_with_key:
 
 L'utente tramite login si identifica e accede all'applicazione, in questo caso l'utente che interagisce è il gestore, preside  visibilità limitata in base al loto ruolo
 in base al tipo di utente è presente il corso relativo.
