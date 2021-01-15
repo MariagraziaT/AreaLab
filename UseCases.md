@@ -18,11 +18,15 @@ il dirigente scolastico potra cosi visionare, e controllare i vari dipendenti e 
 ***FUNZIONALITA'*** 
 :mag:
 
-*visualizzare eventuali dipendenti (docenti/collaboratori) scolastici che devono a breve rinnovare la presenza a corsi
-*inserimento di un docente
-*rimozione di un docente
-*aggiornamenti
-*modifica
+* visualizzare eventuali dipendenti (docenti/collaboratori) scolastici che devono a breve rinnovare la presenza a corsi
+* inserimento di un docente
+* rimozione di un docente
+* aggiornamenti
+* modifica
+* informazione
+* background
+* importare le informazioni
+personale
 
 garantisce la sorveglianza per quanto riguarda gli insegnanti ed i da essi corsi svolti (formazione base/specifica)
 
