@@ -1,5 +1,5 @@
 ### INSTALLAZIONE GUIDATA SQL SERVER 
-<p>In questa guida seguiremo l’installazione SQL per la versione gratuita **SQL Server 2017 Express**.
+<p>In questa guida seguiremo l’installazione SQL per la versione gratuita __SQL Server 2017 Express__.
 
 Per iniziare dobbiamo scaricare il sorgente da questo link https://go.microsoft.com/fwlink/?linkid=853017.
 
