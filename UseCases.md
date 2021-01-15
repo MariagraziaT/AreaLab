@@ -19,6 +19,7 @@ il dirigente scolastico potra cosi visionare, e controllare i vari dipendenti e 
 :mag:
 
 * visualizzare eventuali dipendenti (docenti/collaboratori) scolastici che devono a breve rinnovare la presenza a corsi
+* corsi correlati allo stato del personale 
 * inserimento di un docente
 * rimozione di un docente
 * aggiornamenti
