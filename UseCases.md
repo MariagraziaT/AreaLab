@@ -2,7 +2,7 @@
 ***Use Case***
 
 In questo documento seguira la descrizione relativa ai possibili usi da parte di un utente dell'applicazione (Nome).
-L'applicazione si occupa della gestione di tutti gli eventi riguardanti la formazione di docenti di varie scuole.
+L'applicazione si occupa della gestione di tutti gli eventi riguardanti la formazione del personale di specifiche scuole.
 L'applicazione è di tipo User-friendly, quindi si presenta all'utente con una [grafica](Grafica.md), che permette l'interazione in modo semplice e dinamico, adatta appunto alle esigenze del consumatore.
 
 
@@ -17,16 +17,30 @@ il dirigente scolastico potra cosi visionare, e controllare i vari dipendenti e 
 
 ***FUNZIONALITA'*** 
 :mag:
+la Homepage dell'applicazione si presenta con un  Header (intestazione),dove a sinistra è presente il logo della scuola e alla destra una breve 
 
-* visualizzare eventuali dipendenti (docenti/collaboratori) scolastici che devono a breve rinnovare la presenza a corsi
-* corsi correlati allo stato del personale 
-* inserimento di un docente
-* rimozione di un docente
-* aggiornamenti
-* modifica
-* informazione
-* background
-* importare le informazioni personale
+[visualizzare eventuali](#visualizzare-eventuali-dipendenti-(docenti/collaboratori)-scolastici-che-devono-a-breve-rinnovare-la-presenza-a-corsi) <br>
+[in base ai corsi viene mostrato il personale mancante di formazione](#corsi-correlati-allo-stato-del-personale) <br>
+[inserimento di un docente](#inserimento-di-un-docente) <br>
+[rimozione di un docente](#rimozione-di-un-docente) <br>
+[aggiornamenti](#aggiornamenti) <br>
+[modifica](#modifica) <br>
+[informazione ](#informazione) <br>
+[backup](#backup) <br>
+[CSV](#CSV) <br>
 
+
+## visualizzare eventuali dipendenti (docenti/collaboratori) scolastici che devono a breve rinnovare la presenza a corsi
+## corsi correlati allo stato del personale 
+## inserimento di un docente
+## rimozione di un docente
+## aggiornamenti
+## modifica
+## informazione 
+## backup
+## CSV
+importare le informazioni personale
 garantisce la sorveglianza per quanto riguarda gli insegnanti ed i da essi corsi svolti (formazione base/specifica)
+
+
 
