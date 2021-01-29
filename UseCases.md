@@ -17,7 +17,9 @@ il dirigente scolastico potra cosi visionare, e controllare i vari dipendenti e 
 
 ***FUNZIONALITA'*** 
 :mag:
-la Homepage dell'applicazione si presenta con un  Header (intestazione),dove a sinistra è presente il logo della scuola e alla destra una breve 
+la prim pagina che l'utente visualizzerà è quella crrispondente al log-in per accedere all'appliacazione.
+la Homepage dell'applicazione si presenta con un  Header (intestazione),dove a sinistra è presente il logo della scuola e alla destra una breve descrisione dell'istituto, sottostante è situato il una riga 
+Nel body sono contentui due pusanti
 
 [visualizzare eventuali](#visualizzare-eventuali-dipendenti-(docenti/collaboratori)-scolastici-che-devono-a-breve-rinnovare-la-presenza-a-corsi) <br>
 [in base ai corsi viene mostrato il personale mancante di formazione](#corsi-correlati-allo-stato-del-personale) <br>
